@@ -1,0 +1,22 @@
+#offer {
+  background-image: url("../backgroundimage.jpg");
+  height: 400px;
+}
+#border {
+  width: 100px;
+  height: 100px;
+  color: blue;
+  margin: 5px 5px 5px 5px;
+  background-color: green;
+}
+.main_navigation a {
+  text-decoration: none;
+  color: black;
+  padding-left: 20px;
+}
+.box:hover {
+  background-color: pink;
+}
+a:hover {
+  background-color: red;
+}
